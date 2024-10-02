@@ -130,7 +130,7 @@ include 'template_sidebar.php';
                         echo "<td>" . $row['keadaan_alat'] . "</td>";
                         echo "<td>" . $row['keterangan'] . "</td>";
                         echo "<td>
-                                <a href='reagen_form_edit.php?id=" . $row['id'] . "' class='btn btn-warning'>Edit</a>
+                                <a href='alat_edit.php?id=" . $row['id'] . "' class='btn btn-warning'>Edit</a>
                                 <a href='?hapus=" . $row['id'] . "' class='btn btn-danger' onclick='return confirm(\"Apakah anda yakin ingin menghapus data ini?\")'>Hapus</a>
                               </td>";
                         echo "</tr>";

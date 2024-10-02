@@ -78,6 +78,12 @@ include("indo.php");
                                 <span>Tambah Reagen</span></a>
                             </li>
 
+                            <li class="nav-item ">
+                            <a class="nav-link" href="alat_index.php">
+                                <i class="fas fa-fw fa fa-thermometer-half"></i>
+                                <span>Alat</span></a>
+                            </li>
+
                             <!-- Database Pasien -->
                             <li class="nav-item">
                                 <a class="nav-link" href="adminpasienlist.php">

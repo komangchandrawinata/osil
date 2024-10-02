@@ -64,7 +64,7 @@
 
                             <li class="nav-item active">
                             <a class="nav-link" href="alat_index.php">
-                                <i class="fas fa-fw fa-user-plus"></i>
+                            <i class="fas fa-fw fa fa-thermometer-half"></i>
                                 <span>Alat</span></a>
                             </li>
 
