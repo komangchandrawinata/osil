@@ -1,0 +1,9 @@
+[15-Jul-2024 12:07:18 Asia/Jakarta] PHP Warning:  mysqli_connect(): (28000/1698): Access denied for user 'root'@'localhost' in /home/devusaha/osil-puskesmas.com/admin/config.php on line 7
+[15-Jul-2024 12:07:18 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/devusaha/osil-puskesmas.com/admin/loginadmincheck.php on line 13
+[15-Jul-2024 12:07:18 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/devusaha/osil-puskesmas.com/admin/loginadmincheck.php on line 15
+[15-Jul-2024 12:08:48 Asia/Jakarta] PHP Warning:  mysqli_connect(): (28000/1698): Access denied for user 'root'@'localhost' in /home/devusaha/osil-puskesmas.com/admin/config.php on line 7
+[15-Jul-2024 12:08:48 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/devusaha/osil-puskesmas.com/admin/loginadmincheck.php on line 13
+[15-Jul-2024 12:08:48 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/devusaha/osil-puskesmas.com/admin/loginadmincheck.php on line 15
+[15-Jul-2024 12:18:42 Asia/Jakarta] PHP Notice:  Undefined index: no_rm in /home/devusaha/osil-puskesmas.com/admin/adminpasienlist_edit.php on line 55
+[15-Jul-2024 12:18:42 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/devusaha/osil-puskesmas.com/admin/adminpasienlist_edit.php on line 61
+[15-Jul-2024 12:18:42 Asia/Jakarta] PHP Notice:  Undefined index: no_rm in /home/devusaha/osil-puskesmas.com/admin/adminpasienlist_edit.php on line 297

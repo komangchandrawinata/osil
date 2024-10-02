@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tambah Stok Reagen</title>
+</head>
+<body>
+    <h1>Tambah Stok Reagen</h1>
+    <form action="proses_tambah_reagen.php" method="post">
+        <label for="nama">Nama Reagen:</label><br>
+        <input type="text" id="nama" name="nama" required><br><br>
+        <label for="jumlah">Jumlah:</label><br>
+        <input type="number" id="jumlah" name="jumlah" required><br><br>
+        <input type="submit" value="Tambah">
+    </form>
+    <a href="index.php">Kembali</a>
+</body>
+</html>

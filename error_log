@@ -1,0 +1,285 @@
+[15-Jul-2024 11:57:41 Asia/Jakarta] PHP Warning:  mysqli_connect(): (28000/1698): Access denied for user 'root'@'localhost' in /home/devusaha/osil-puskesmas.com/config.php on line 7
+[15-Jul-2024 11:57:41 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/devusaha/osil-puskesmas.com/loginadmincheck.php on line 13
+[15-Jul-2024 11:57:41 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/devusaha/osil-puskesmas.com/loginadmincheck.php on line 15
+[15-Jul-2024 11:57:49 Asia/Jakarta] PHP Warning:  mysqli_connect(): (28000/1698): Access denied for user 'root'@'localhost' in /home/devusaha/osil-puskesmas.com/config.php on line 7
+[15-Jul-2024 11:57:49 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/devusaha/osil-puskesmas.com/loginadmincheck.php on line 13
+[15-Jul-2024 11:57:49 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/devusaha/osil-puskesmas.com/loginadmincheck.php on line 15
+[15-Jul-2024 12:06:49 Asia/Jakarta] PHP Warning:  mysqli_connect(): (28000/1698): Access denied for user 'root'@'localhost' in /home/devusaha/osil-puskesmas.com/config.php on line 7
+[15-Jul-2024 12:06:49 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/devusaha/osil-puskesmas.com/loginadmincheck.php on line 13
+[15-Jul-2024 12:06:49 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/devusaha/osil-puskesmas.com/loginadmincheck.php on line 15
+[15-Jul-2024 12:07:05 Asia/Jakarta] PHP Warning:  mysqli_connect(): (28000/1698): Access denied for user 'root'@'localhost' in /home/devusaha/osil-puskesmas.com/config.php on line 7
+[15-Jul-2024 12:07:05 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/devusaha/osil-puskesmas.com/loginadmincheck.php on line 13
+[15-Jul-2024 12:07:05 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/devusaha/osil-puskesmas.com/loginadmincheck.php on line 15
+[15-Jul-2024 12:21:22 Asia/Jakarta] PHP Notice:  Undefined index: style in /home/devusaha/osil-puskesmas.com/tcpdf.php on line 18924
+[15-Jul-2024 12:21:22 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/devusaha/osil-puskesmas.com/tcpdf.php on line 18924
+[15-Jul-2024 12:21:22 Asia/Jakarta] PHP Notice:  Undefined index: style in /home/devusaha/osil-puskesmas.com/tcpdf.php on line 18925
+[15-Jul-2024 12:21:22 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/devusaha/osil-puskesmas.com/tcpdf.php on line 18925
+[15-Jul-2024 12:21:22 Asia/Jakarta] PHP Notice:  Undefined index: style in /home/devusaha/osil-puskesmas.com/tcpdf.php on line 18926
+[15-Jul-2024 12:21:22 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/devusaha/osil-puskesmas.com/tcpdf.php on line 18926
+[15-Jul-2024 12:21:22 Asia/Jakarta] PHP Notice:  Undefined index: style in /home/devusaha/osil-puskesmas.com/tcpdf.php on line 18927
+[15-Jul-2024 12:21:22 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/devusaha/osil-puskesmas.com/tcpdf.php on line 18927
+[15-Jul-2024 12:21:22 Asia/Jakarta] PHP Notice:  Undefined variable: content_ur in /home/devusaha/osil-puskesmas.com/adminhasillist_cetak.php on line 648
+[15-Jul-2024 12:21:22 Asia/Jakarta] PHP Notice:  Undefined variable: content_ba in /home/devusaha/osil-puskesmas.com/adminhasillist_cetak.php on line 830
+[15-Jul-2024 12:21:22 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/devusaha/osil-puskesmas.com/adminhasillist_cetak.php on line 854
+[15-Jul-2024 12:21:22 Asia/Jakarta] PHP Notice:  Undefined variable: content_se in /home/devusaha/osil-puskesmas.com/adminhasillist_cetak.php on line 1112
+[15-Jul-2024 12:21:22 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/devusaha/osil-puskesmas.com/adminhasillist_cetak.php on line 1136
+[15-Jul-2024 12:21:22 Asia/Jakarta] PHP Notice:  Undefined variable: content_kd in /home/devusaha/osil-puskesmas.com/adminhasillist_cetak.php on line 1342
+[15-Jul-2024 12:22:28 Asia/Jakarta] PHP Notice:  Undefined index: style in /home/devusaha/osil-puskesmas.com/tcpdf.php on line 18924
+[15-Jul-2024 12:22:28 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/devusaha/osil-puskesmas.com/tcpdf.php on line 18924
+[15-Jul-2024 12:22:28 Asia/Jakarta] PHP Notice:  Undefined index: style in /home/devusaha/osil-puskesmas.com/tcpdf.php on line 18925
+[15-Jul-2024 12:22:28 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/devusaha/osil-puskesmas.com/tcpdf.php on line 18925
+[15-Jul-2024 12:22:28 Asia/Jakarta] PHP Notice:  Undefined index: style in /home/devusaha/osil-puskesmas.com/tcpdf.php on line 18926
+[15-Jul-2024 12:22:28 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/devusaha/osil-puskesmas.com/tcpdf.php on line 18926
+[15-Jul-2024 12:22:28 Asia/Jakarta] PHP Notice:  Undefined index: style in /home/devusaha/osil-puskesmas.com/tcpdf.php on line 18927
+[15-Jul-2024 12:22:28 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/devusaha/osil-puskesmas.com/tcpdf.php on line 18927
+[15-Jul-2024 12:22:28 Asia/Jakarta] PHP Notice:  Undefined variable: content_ur in /home/devusaha/osil-puskesmas.com/adminhasillist_cetak.php on line 648
+[15-Jul-2024 12:22:28 Asia/Jakarta] PHP Notice:  Undefined variable: content_ba in /home/devusaha/osil-puskesmas.com/adminhasillist_cetak.php on line 830
+[15-Jul-2024 12:22:28 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/devusaha/osil-puskesmas.com/adminhasillist_cetak.php on line 854
+[15-Jul-2024 12:22:28 Asia/Jakarta] PHP Notice:  Undefined variable: content_se in /home/devusaha/osil-puskesmas.com/adminhasillist_cetak.php on line 1112
+[15-Jul-2024 12:22:28 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/devusaha/osil-puskesmas.com/adminhasillist_cetak.php on line 1136
+[15-Jul-2024 12:22:28 Asia/Jakarta] PHP Notice:  Undefined variable: content_kd in /home/devusaha/osil-puskesmas.com/adminhasillist_cetak.php on line 1342
+[15-Jul-2024 12:22:31 Asia/Jakarta] PHP Notice:  Undefined index: style in /home/devusaha/osil-puskesmas.com/tcpdf.php on line 18924
+[15-Jul-2024 12:22:31 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/devusaha/osil-puskesmas.com/tcpdf.php on line 18924
+[15-Jul-2024 12:22:31 Asia/Jakarta] PHP Notice:  Undefined index: style in /home/devusaha/osil-puskesmas.com/tcpdf.php on line 18925
+[15-Jul-2024 12:22:31 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/devusaha/osil-puskesmas.com/tcpdf.php on line 18925
+[15-Jul-2024 12:22:31 Asia/Jakarta] PHP Notice:  Undefined index: style in /home/devusaha/osil-puskesmas.com/tcpdf.php on line 18926
+[15-Jul-2024 12:22:31 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/devusaha/osil-puskesmas.com/tcpdf.php on line 18926
+[15-Jul-2024 12:22:31 Asia/Jakarta] PHP Notice:  Undefined index: style in /home/devusaha/osil-puskesmas.com/tcpdf.php on line 18927
+[15-Jul-2024 12:22:31 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/devusaha/osil-puskesmas.com/tcpdf.php on line 18927
+[15-Jul-2024 12:22:31 Asia/Jakarta] PHP Notice:  Undefined variable: content_ur in /home/devusaha/osil-puskesmas.com/adminhasillist_cetak.php on line 648
+[15-Jul-2024 12:22:31 Asia/Jakarta] PHP Notice:  Undefined variable: content_ba in /home/devusaha/osil-puskesmas.com/adminhasillist_cetak.php on line 830
+[15-Jul-2024 12:22:31 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/devusaha/osil-puskesmas.com/adminhasillist_cetak.php on line 854
+[15-Jul-2024 12:22:31 Asia/Jakarta] PHP Notice:  Undefined variable: content_se in /home/devusaha/osil-puskesmas.com/adminhasillist_cetak.php on line 1112
+[15-Jul-2024 12:22:31 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/devusaha/osil-puskesmas.com/adminhasillist_cetak.php on line 1136
+[15-Jul-2024 12:22:31 Asia/Jakarta] PHP Notice:  Undefined variable: content_kd in /home/devusaha/osil-puskesmas.com/adminhasillist_cetak.php on line 1342
+[15-Jul-2024 12:26:43 Asia/Jakarta] PHP Notice:  Undefined index: style in /home/devusaha/osil-puskesmas.com/tcpdf.php on line 18924
+[15-Jul-2024 12:26:43 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/devusaha/osil-puskesmas.com/tcpdf.php on line 18924
+[15-Jul-2024 12:26:43 Asia/Jakarta] PHP Notice:  Undefined index: style in /home/devusaha/osil-puskesmas.com/tcpdf.php on line 18925
+[15-Jul-2024 12:26:43 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/devusaha/osil-puskesmas.com/tcpdf.php on line 18925
+[15-Jul-2024 12:26:43 Asia/Jakarta] PHP Notice:  Undefined index: style in /home/devusaha/osil-puskesmas.com/tcpdf.php on line 18926
+[15-Jul-2024 12:26:43 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/devusaha/osil-puskesmas.com/tcpdf.php on line 18926
+[15-Jul-2024 12:26:43 Asia/Jakarta] PHP Notice:  Undefined index: style in /home/devusaha/osil-puskesmas.com/tcpdf.php on line 18927
+[15-Jul-2024 12:26:43 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/devusaha/osil-puskesmas.com/tcpdf.php on line 18927
+[15-Jul-2024 12:26:43 Asia/Jakarta] PHP Notice:  Undefined index: style in /home/devusaha/osil-puskesmas.com/tcpdf.php on line 18924
+[15-Jul-2024 12:26:43 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/devusaha/osil-puskesmas.com/tcpdf.php on line 18924
+[15-Jul-2024 12:26:43 Asia/Jakarta] PHP Notice:  Undefined index: style in /home/devusaha/osil-puskesmas.com/tcpdf.php on line 18925
+[15-Jul-2024 12:26:43 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/devusaha/osil-puskesmas.com/tcpdf.php on line 18925
+[15-Jul-2024 12:26:43 Asia/Jakarta] PHP Notice:  Undefined index: style in /home/devusaha/osil-puskesmas.com/tcpdf.php on line 18926
+[15-Jul-2024 12:26:43 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/devusaha/osil-puskesmas.com/tcpdf.php on line 18926
+[15-Jul-2024 12:26:43 Asia/Jakarta] PHP Notice:  Undefined index: style in /home/devusaha/osil-puskesmas.com/tcpdf.php on line 18927
+[15-Jul-2024 12:26:43 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/devusaha/osil-puskesmas.com/tcpdf.php on line 18927
+[15-Jul-2024 12:26:43 Asia/Jakarta] PHP Notice:  Undefined index: pmm in /home/devusaha/osil-puskesmas.com/adminhasillist_cetak.php on line 808
+[15-Jul-2024 12:26:43 Asia/Jakarta] PHP Notice:  Undefined index: style in /home/devusaha/osil-puskesmas.com/tcpdf.php on line 18924
+[15-Jul-2024 12:26:43 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/devusaha/osil-puskesmas.com/tcpdf.php on line 18924
+[15-Jul-2024 12:26:43 Asia/Jakarta] PHP Notice:  Undefined index: style in /home/devusaha/osil-puskesmas.com/tcpdf.php on line 18925
+[15-Jul-2024 12:26:43 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/devusaha/osil-puskesmas.com/tcpdf.php on line 18925
+[15-Jul-2024 12:26:43 Asia/Jakarta] PHP Notice:  Undefined index: style in /home/devusaha/osil-puskesmas.com/tcpdf.php on line 18926
+[15-Jul-2024 12:26:43 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/devusaha/osil-puskesmas.com/tcpdf.php on line 18926
+[15-Jul-2024 12:26:43 Asia/Jakarta] PHP Notice:  Undefined index: style in /home/devusaha/osil-puskesmas.com/tcpdf.php on line 18927
+[15-Jul-2024 12:26:43 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/devusaha/osil-puskesmas.com/tcpdf.php on line 18927
+[15-Jul-2024 12:26:43 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/devusaha/osil-puskesmas.com/adminhasillist_cetak.php on line 854
+[15-Jul-2024 12:26:43 Asia/Jakarta] PHP Notice:  Undefined variable: content_se in /home/devusaha/osil-puskesmas.com/adminhasillist_cetak.php on line 1112
+[15-Jul-2024 12:26:43 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/devusaha/osil-puskesmas.com/adminhasillist_cetak.php on line 1136
+[15-Jul-2024 12:26:43 Asia/Jakarta] PHP Notice:  Undefined variable: content_kd in /home/devusaha/osil-puskesmas.com/adminhasillist_cetak.php on line 1342
+[15-Jul-2024 12:44:25 Asia/Jakarta] PHP Notice:  Undefined index: style in /home/devusaha/osil-puskesmas.com/tcpdf.php on line 18924
+[15-Jul-2024 12:44:25 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/devusaha/osil-puskesmas.com/tcpdf.php on line 18924
+[15-Jul-2024 12:44:25 Asia/Jakarta] PHP Notice:  Undefined index: style in /home/devusaha/osil-puskesmas.com/tcpdf.php on line 18925
+[15-Jul-2024 12:44:25 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/devusaha/osil-puskesmas.com/tcpdf.php on line 18925
+[15-Jul-2024 12:44:25 Asia/Jakarta] PHP Notice:  Undefined index: style in /home/devusaha/osil-puskesmas.com/tcpdf.php on line 18926
+[15-Jul-2024 12:44:25 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/devusaha/osil-puskesmas.com/tcpdf.php on line 18926
+[15-Jul-2024 12:44:25 Asia/Jakarta] PHP Notice:  Undefined index: style in /home/devusaha/osil-puskesmas.com/tcpdf.php on line 18927
+[15-Jul-2024 12:44:25 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/devusaha/osil-puskesmas.com/tcpdf.php on line 18927
+[15-Jul-2024 12:44:25 Asia/Jakarta] PHP Notice:  Undefined variable: content_ur in /home/devusaha/osil-puskesmas.com/adminhasillist_cetak.php on line 648
+[15-Jul-2024 12:44:25 Asia/Jakarta] PHP Notice:  Undefined variable: content_ba in /home/devusaha/osil-puskesmas.com/adminhasillist_cetak.php on line 830
+[15-Jul-2024 12:44:25 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/devusaha/osil-puskesmas.com/adminhasillist_cetak.php on line 854
+[15-Jul-2024 12:44:25 Asia/Jakarta] PHP Notice:  Undefined variable: content_se in /home/devusaha/osil-puskesmas.com/adminhasillist_cetak.php on line 1112
+[15-Jul-2024 12:44:25 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/devusaha/osil-puskesmas.com/adminhasillist_cetak.php on line 1136
+[15-Jul-2024 12:44:25 Asia/Jakarta] PHP Notice:  Undefined variable: content_kd in /home/devusaha/osil-puskesmas.com/adminhasillist_cetak.php on line 1342
+[15-Jul-2024 12:44:27 Asia/Jakarta] PHP Notice:  Undefined index: style in /home/devusaha/osil-puskesmas.com/tcpdf.php on line 18924
+[15-Jul-2024 12:44:27 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/devusaha/osil-puskesmas.com/tcpdf.php on line 18924
+[15-Jul-2024 12:44:27 Asia/Jakarta] PHP Notice:  Undefined index: style in /home/devusaha/osil-puskesmas.com/tcpdf.php on line 18925
+[15-Jul-2024 12:44:27 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/devusaha/osil-puskesmas.com/tcpdf.php on line 18925
+[15-Jul-2024 12:44:27 Asia/Jakarta] PHP Notice:  Undefined index: style in /home/devusaha/osil-puskesmas.com/tcpdf.php on line 18926
+[15-Jul-2024 12:44:27 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/devusaha/osil-puskesmas.com/tcpdf.php on line 18926
+[15-Jul-2024 12:44:27 Asia/Jakarta] PHP Notice:  Undefined index: style in /home/devusaha/osil-puskesmas.com/tcpdf.php on line 18927
+[15-Jul-2024 12:44:27 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/devusaha/osil-puskesmas.com/tcpdf.php on line 18927
+[15-Jul-2024 12:44:27 Asia/Jakarta] PHP Notice:  Undefined variable: content_ur in /home/devusaha/osil-puskesmas.com/adminhasillist_cetak.php on line 648
+[15-Jul-2024 12:44:27 Asia/Jakarta] PHP Notice:  Undefined variable: content_ba in /home/devusaha/osil-puskesmas.com/adminhasillist_cetak.php on line 830
+[15-Jul-2024 12:44:27 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/devusaha/osil-puskesmas.com/adminhasillist_cetak.php on line 854
+[15-Jul-2024 12:44:27 Asia/Jakarta] PHP Notice:  Undefined variable: content_se in /home/devusaha/osil-puskesmas.com/adminhasillist_cetak.php on line 1112
+[15-Jul-2024 12:44:27 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/devusaha/osil-puskesmas.com/adminhasillist_cetak.php on line 1136
+[15-Jul-2024 12:44:27 Asia/Jakarta] PHP Notice:  Undefined variable: content_kd in /home/devusaha/osil-puskesmas.com/adminhasillist_cetak.php on line 1342
+[15-Jul-2024 12:45:05 Asia/Jakarta] PHP Notice:  Undefined index: style in /home/devusaha/osil-puskesmas.com/tcpdf.php on line 18924
+[15-Jul-2024 12:45:05 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/devusaha/osil-puskesmas.com/tcpdf.php on line 18924
+[15-Jul-2024 12:45:05 Asia/Jakarta] PHP Notice:  Undefined index: style in /home/devusaha/osil-puskesmas.com/tcpdf.php on line 18925
+[15-Jul-2024 12:45:05 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/devusaha/osil-puskesmas.com/tcpdf.php on line 18925
+[15-Jul-2024 12:45:05 Asia/Jakarta] PHP Notice:  Undefined index: style in /home/devusaha/osil-puskesmas.com/tcpdf.php on line 18926
+[15-Jul-2024 12:45:05 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/devusaha/osil-puskesmas.com/tcpdf.php on line 18926
+[15-Jul-2024 12:45:05 Asia/Jakarta] PHP Notice:  Undefined index: style in /home/devusaha/osil-puskesmas.com/tcpdf.php on line 18927
+[15-Jul-2024 12:45:05 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/devusaha/osil-puskesmas.com/tcpdf.php on line 18927
+[15-Jul-2024 12:45:05 Asia/Jakarta] PHP Notice:  Undefined variable: content_ur in /home/devusaha/osil-puskesmas.com/adminhasillist_cetak.php on line 648
+[15-Jul-2024 12:45:05 Asia/Jakarta] PHP Notice:  Undefined variable: content_ba in /home/devusaha/osil-puskesmas.com/adminhasillist_cetak.php on line 830
+[15-Jul-2024 12:45:05 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/devusaha/osil-puskesmas.com/adminhasillist_cetak.php on line 854
+[15-Jul-2024 12:45:05 Asia/Jakarta] PHP Notice:  Undefined variable: content_se in /home/devusaha/osil-puskesmas.com/adminhasillist_cetak.php on line 1112
+[15-Jul-2024 12:45:05 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/devusaha/osil-puskesmas.com/adminhasillist_cetak.php on line 1136
+[15-Jul-2024 12:45:05 Asia/Jakarta] PHP Notice:  Undefined variable: content_kd in /home/devusaha/osil-puskesmas.com/adminhasillist_cetak.php on line 1342
+[15-Jul-2024 12:52:50 Asia/Jakarta] PHP Notice:  Undefined index: style in /home/devusaha/osil-puskesmas.com/tcpdf.php on line 18924
+[15-Jul-2024 12:52:50 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/devusaha/osil-puskesmas.com/tcpdf.php on line 18924
+[15-Jul-2024 12:52:50 Asia/Jakarta] PHP Notice:  Undefined index: style in /home/devusaha/osil-puskesmas.com/tcpdf.php on line 18925
+[15-Jul-2024 12:52:50 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/devusaha/osil-puskesmas.com/tcpdf.php on line 18925
+[15-Jul-2024 12:52:50 Asia/Jakarta] PHP Notice:  Undefined index: style in /home/devusaha/osil-puskesmas.com/tcpdf.php on line 18926
+[15-Jul-2024 12:52:50 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/devusaha/osil-puskesmas.com/tcpdf.php on line 18926
+[15-Jul-2024 12:52:50 Asia/Jakarta] PHP Notice:  Undefined index: style in /home/devusaha/osil-puskesmas.com/tcpdf.php on line 18927
+[15-Jul-2024 12:52:50 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/devusaha/osil-puskesmas.com/tcpdf.php on line 18927
+[15-Jul-2024 12:52:50 Asia/Jakarta] PHP Notice:  Undefined variable: content_ur in /home/devusaha/osil-puskesmas.com/adminhasillist_cetak.php on line 648
+[15-Jul-2024 12:52:50 Asia/Jakarta] PHP Notice:  Undefined variable: content_ba in /home/devusaha/osil-puskesmas.com/adminhasillist_cetak.php on line 830
+[15-Jul-2024 12:52:50 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/devusaha/osil-puskesmas.com/adminhasillist_cetak.php on line 854
+[15-Jul-2024 12:52:50 Asia/Jakarta] PHP Notice:  Undefined variable: content_se in /home/devusaha/osil-puskesmas.com/adminhasillist_cetak.php on line 1112
+[15-Jul-2024 12:52:50 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/devusaha/osil-puskesmas.com/adminhasillist_cetak.php on line 1136
+[15-Jul-2024 12:52:50 Asia/Jakarta] PHP Notice:  Undefined variable: content_kd in /home/devusaha/osil-puskesmas.com/adminhasillist_cetak.php on line 1342
+[15-Jul-2024 12:52:52 Asia/Jakarta] PHP Notice:  Undefined index: style in /home/devusaha/osil-puskesmas.com/tcpdf.php on line 18924
+[15-Jul-2024 12:52:52 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/devusaha/osil-puskesmas.com/tcpdf.php on line 18924
+[15-Jul-2024 12:52:52 Asia/Jakarta] PHP Notice:  Undefined index: style in /home/devusaha/osil-puskesmas.com/tcpdf.php on line 18925
+[15-Jul-2024 12:52:52 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/devusaha/osil-puskesmas.com/tcpdf.php on line 18925
+[15-Jul-2024 12:52:52 Asia/Jakarta] PHP Notice:  Undefined index: style in /home/devusaha/osil-puskesmas.com/tcpdf.php on line 18926
+[15-Jul-2024 12:52:52 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/devusaha/osil-puskesmas.com/tcpdf.php on line 18926
+[15-Jul-2024 12:52:52 Asia/Jakarta] PHP Notice:  Undefined index: style in /home/devusaha/osil-puskesmas.com/tcpdf.php on line 18927
+[15-Jul-2024 12:52:52 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/devusaha/osil-puskesmas.com/tcpdf.php on line 18927
+[15-Jul-2024 12:52:52 Asia/Jakarta] PHP Notice:  Undefined variable: content_ur in /home/devusaha/osil-puskesmas.com/adminhasillist_cetak.php on line 648
+[15-Jul-2024 12:52:52 Asia/Jakarta] PHP Notice:  Undefined variable: content_ba in /home/devusaha/osil-puskesmas.com/adminhasillist_cetak.php on line 830
+[15-Jul-2024 12:52:52 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/devusaha/osil-puskesmas.com/adminhasillist_cetak.php on line 854
+[15-Jul-2024 12:52:52 Asia/Jakarta] PHP Notice:  Undefined variable: content_se in /home/devusaha/osil-puskesmas.com/adminhasillist_cetak.php on line 1112
+[15-Jul-2024 12:52:52 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/devusaha/osil-puskesmas.com/adminhasillist_cetak.php on line 1136
+[15-Jul-2024 12:52:52 Asia/Jakarta] PHP Notice:  Undefined variable: content_kd in /home/devusaha/osil-puskesmas.com/adminhasillist_cetak.php on line 1342
+[15-Jul-2024 12:56:04 Asia/Jakarta] PHP Notice:  Undefined variable: content_he in /home/devusaha/osil-puskesmas.com/adminhasillist_cetak.php on line 394
+[15-Jul-2024 12:56:04 Asia/Jakarta] PHP Notice:  Undefined index: style in /home/devusaha/osil-puskesmas.com/tcpdf.php on line 18924
+[15-Jul-2024 12:56:04 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/devusaha/osil-puskesmas.com/tcpdf.php on line 18924
+[15-Jul-2024 12:56:04 Asia/Jakarta] PHP Notice:  Undefined index: style in /home/devusaha/osil-puskesmas.com/tcpdf.php on line 18925
+[15-Jul-2024 12:56:04 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/devusaha/osil-puskesmas.com/tcpdf.php on line 18925
+[15-Jul-2024 12:56:04 Asia/Jakarta] PHP Notice:  Undefined index: style in /home/devusaha/osil-puskesmas.com/tcpdf.php on line 18926
+[15-Jul-2024 12:56:04 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/devusaha/osil-puskesmas.com/tcpdf.php on line 18926
+[15-Jul-2024 12:56:04 Asia/Jakarta] PHP Notice:  Undefined index: style in /home/devusaha/osil-puskesmas.com/tcpdf.php on line 18927
+[15-Jul-2024 12:56:04 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/devusaha/osil-puskesmas.com/tcpdf.php on line 18927
+[15-Jul-2024 12:56:04 Asia/Jakarta] PHP Notice:  Undefined variable: content_ba in /home/devusaha/osil-puskesmas.com/adminhasillist_cetak.php on line 830
+[15-Jul-2024 12:56:04 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/devusaha/osil-puskesmas.com/adminhasillist_cetak.php on line 854
+[15-Jul-2024 12:56:04 Asia/Jakarta] PHP Notice:  Undefined variable: content_se in /home/devusaha/osil-puskesmas.com/adminhasillist_cetak.php on line 1112
+[15-Jul-2024 12:56:04 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/devusaha/osil-puskesmas.com/adminhasillist_cetak.php on line 1136
+[15-Jul-2024 12:56:04 Asia/Jakarta] PHP Notice:  Undefined variable: content_kd in /home/devusaha/osil-puskesmas.com/adminhasillist_cetak.php on line 1342
+[15-Jul-2024 12:56:04 Asia/Jakarta] PHP Notice:  Undefined variable: content_he in /home/devusaha/osil-puskesmas.com/adminhasillist_cetak.php on line 394
+[15-Jul-2024 12:56:04 Asia/Jakarta] PHP Notice:  Undefined index: style in /home/devusaha/osil-puskesmas.com/tcpdf.php on line 18924
+[15-Jul-2024 12:56:04 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/devusaha/osil-puskesmas.com/tcpdf.php on line 18924
+[15-Jul-2024 12:56:04 Asia/Jakarta] PHP Notice:  Undefined index: style in /home/devusaha/osil-puskesmas.com/tcpdf.php on line 18925
+[15-Jul-2024 12:56:04 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/devusaha/osil-puskesmas.com/tcpdf.php on line 18925
+[15-Jul-2024 12:56:04 Asia/Jakarta] PHP Notice:  Undefined index: style in /home/devusaha/osil-puskesmas.com/tcpdf.php on line 18926
+[15-Jul-2024 12:56:04 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/devusaha/osil-puskesmas.com/tcpdf.php on line 18926
+[15-Jul-2024 12:56:04 Asia/Jakarta] PHP Notice:  Undefined index: style in /home/devusaha/osil-puskesmas.com/tcpdf.php on line 18927
+[15-Jul-2024 12:56:04 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/devusaha/osil-puskesmas.com/tcpdf.php on line 18927
+[15-Jul-2024 12:56:04 Asia/Jakarta] PHP Notice:  Undefined variable: content_ba in /home/devusaha/osil-puskesmas.com/adminhasillist_cetak.php on line 830
+[15-Jul-2024 12:56:04 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/devusaha/osil-puskesmas.com/adminhasillist_cetak.php on line 854
+[15-Jul-2024 12:56:04 Asia/Jakarta] PHP Notice:  Undefined variable: content_se in /home/devusaha/osil-puskesmas.com/adminhasillist_cetak.php on line 1112
+[15-Jul-2024 12:56:04 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/devusaha/osil-puskesmas.com/adminhasillist_cetak.php on line 1136
+[15-Jul-2024 12:56:04 Asia/Jakarta] PHP Notice:  Undefined variable: content_kd in /home/devusaha/osil-puskesmas.com/adminhasillist_cetak.php on line 1342
+[15-Jul-2024 12:58:29 Asia/Jakarta] PHP Notice:  Undefined variable: content_he in /home/devusaha/osil-puskesmas.com/adminhasillist_cetak.php on line 394
+[15-Jul-2024 12:58:29 Asia/Jakarta] PHP Notice:  Undefined index: style in /home/devusaha/osil-puskesmas.com/tcpdf.php on line 18924
+[15-Jul-2024 12:58:29 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/devusaha/osil-puskesmas.com/tcpdf.php on line 18924
+[15-Jul-2024 12:58:29 Asia/Jakarta] PHP Notice:  Undefined index: style in /home/devusaha/osil-puskesmas.com/tcpdf.php on line 18925
+[15-Jul-2024 12:58:29 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/devusaha/osil-puskesmas.com/tcpdf.php on line 18925
+[15-Jul-2024 12:58:29 Asia/Jakarta] PHP Notice:  Undefined index: style in /home/devusaha/osil-puskesmas.com/tcpdf.php on line 18926
+[15-Jul-2024 12:58:29 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/devusaha/osil-puskesmas.com/tcpdf.php on line 18926
+[15-Jul-2024 12:58:29 Asia/Jakarta] PHP Notice:  Undefined index: style in /home/devusaha/osil-puskesmas.com/tcpdf.php on line 18927
+[15-Jul-2024 12:58:29 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/devusaha/osil-puskesmas.com/tcpdf.php on line 18927
+[15-Jul-2024 12:58:30 Asia/Jakarta] PHP Notice:  Undefined variable: content_ba in /home/devusaha/osil-puskesmas.com/adminhasillist_cetak.php on line 830
+[15-Jul-2024 12:58:30 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/devusaha/osil-puskesmas.com/adminhasillist_cetak.php on line 854
+[15-Jul-2024 12:58:30 Asia/Jakarta] PHP Notice:  Undefined variable: content_se in /home/devusaha/osil-puskesmas.com/adminhasillist_cetak.php on line 1112
+[15-Jul-2024 12:58:30 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/devusaha/osil-puskesmas.com/adminhasillist_cetak.php on line 1136
+[15-Jul-2024 12:58:30 Asia/Jakarta] PHP Notice:  Undefined variable: content_kd in /home/devusaha/osil-puskesmas.com/adminhasillist_cetak.php on line 1342
+[15-Jul-2024 12:58:31 Asia/Jakarta] PHP Notice:  Undefined variable: content_he in /home/devusaha/osil-puskesmas.com/adminhasillist_cetak.php on line 394
+[15-Jul-2024 12:58:31 Asia/Jakarta] PHP Notice:  Undefined index: style in /home/devusaha/osil-puskesmas.com/tcpdf.php on line 18924
+[15-Jul-2024 12:58:31 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/devusaha/osil-puskesmas.com/tcpdf.php on line 18924
+[15-Jul-2024 12:58:31 Asia/Jakarta] PHP Notice:  Undefined index: style in /home/devusaha/osil-puskesmas.com/tcpdf.php on line 18925
+[15-Jul-2024 12:58:31 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/devusaha/osil-puskesmas.com/tcpdf.php on line 18925
+[15-Jul-2024 12:58:31 Asia/Jakarta] PHP Notice:  Undefined index: style in /home/devusaha/osil-puskesmas.com/tcpdf.php on line 18926
+[15-Jul-2024 12:58:31 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/devusaha/osil-puskesmas.com/tcpdf.php on line 18926
+[15-Jul-2024 12:58:31 Asia/Jakarta] PHP Notice:  Undefined index: style in /home/devusaha/osil-puskesmas.com/tcpdf.php on line 18927
+[15-Jul-2024 12:58:31 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/devusaha/osil-puskesmas.com/tcpdf.php on line 18927
+[15-Jul-2024 12:58:31 Asia/Jakarta] PHP Notice:  Undefined variable: content_ba in /home/devusaha/osil-puskesmas.com/adminhasillist_cetak.php on line 830
+[15-Jul-2024 12:58:31 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/devusaha/osil-puskesmas.com/adminhasillist_cetak.php on line 854
+[15-Jul-2024 12:58:31 Asia/Jakarta] PHP Notice:  Undefined variable: content_se in /home/devusaha/osil-puskesmas.com/adminhasillist_cetak.php on line 1112
+[15-Jul-2024 12:58:31 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/devusaha/osil-puskesmas.com/adminhasillist_cetak.php on line 1136
+[15-Jul-2024 12:58:31 Asia/Jakarta] PHP Notice:  Undefined variable: content_kd in /home/devusaha/osil-puskesmas.com/adminhasillist_cetak.php on line 1342
+[15-Jul-2024 12:59:35 Asia/Jakarta] PHP Notice:  Undefined variable: content_he in /home/devusaha/osil-puskesmas.com/adminhasillist_cetak.php on line 394
+[15-Jul-2024 12:59:35 Asia/Jakarta] PHP Notice:  Undefined variable: content_ur in /home/devusaha/osil-puskesmas.com/adminhasillist_cetak.php on line 648
+[15-Jul-2024 12:59:35 Asia/Jakarta] PHP Notice:  Undefined index: pmm in /home/devusaha/osil-puskesmas.com/adminhasillist_cetak.php on line 808
+[15-Jul-2024 12:59:35 Asia/Jakarta] PHP Notice:  Undefined index: style in /home/devusaha/osil-puskesmas.com/tcpdf.php on line 18924
+[15-Jul-2024 12:59:35 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/devusaha/osil-puskesmas.com/tcpdf.php on line 18924
+[15-Jul-2024 12:59:35 Asia/Jakarta] PHP Notice:  Undefined index: style in /home/devusaha/osil-puskesmas.com/tcpdf.php on line 18925
+[15-Jul-2024 12:59:35 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/devusaha/osil-puskesmas.com/tcpdf.php on line 18925
+[15-Jul-2024 12:59:35 Asia/Jakarta] PHP Notice:  Undefined index: style in /home/devusaha/osil-puskesmas.com/tcpdf.php on line 18926
+[15-Jul-2024 12:59:35 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/devusaha/osil-puskesmas.com/tcpdf.php on line 18926
+[15-Jul-2024 12:59:35 Asia/Jakarta] PHP Notice:  Undefined index: style in /home/devusaha/osil-puskesmas.com/tcpdf.php on line 18927
+[15-Jul-2024 12:59:35 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/devusaha/osil-puskesmas.com/tcpdf.php on line 18927
+[15-Jul-2024 12:59:35 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/devusaha/osil-puskesmas.com/adminhasillist_cetak.php on line 854
+[15-Jul-2024 12:59:35 Asia/Jakarta] PHP Notice:  Undefined variable: content_se in /home/devusaha/osil-puskesmas.com/adminhasillist_cetak.php on line 1112
+[15-Jul-2024 12:59:35 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/devusaha/osil-puskesmas.com/adminhasillist_cetak.php on line 1136
+[15-Jul-2024 12:59:35 Asia/Jakarta] PHP Notice:  Undefined variable: content_kd in /home/devusaha/osil-puskesmas.com/adminhasillist_cetak.php on line 1342
+[15-Jul-2024 12:59:35 Asia/Jakarta] PHP Notice:  Undefined variable: content_he in /home/devusaha/osil-puskesmas.com/adminhasillist_cetak.php on line 394
+[15-Jul-2024 12:59:35 Asia/Jakarta] PHP Notice:  Undefined variable: content_ur in /home/devusaha/osil-puskesmas.com/adminhasillist_cetak.php on line 648
+[15-Jul-2024 12:59:35 Asia/Jakarta] PHP Notice:  Undefined index: pmm in /home/devusaha/osil-puskesmas.com/adminhasillist_cetak.php on line 808
+[15-Jul-2024 12:59:35 Asia/Jakarta] PHP Notice:  Undefined index: style in /home/devusaha/osil-puskesmas.com/tcpdf.php on line 18924
+[15-Jul-2024 12:59:35 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/devusaha/osil-puskesmas.com/tcpdf.php on line 18924
+[15-Jul-2024 12:59:35 Asia/Jakarta] PHP Notice:  Undefined index: style in /home/devusaha/osil-puskesmas.com/tcpdf.php on line 18925
+[15-Jul-2024 12:59:35 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/devusaha/osil-puskesmas.com/tcpdf.php on line 18925
+[15-Jul-2024 12:59:35 Asia/Jakarta] PHP Notice:  Undefined index: style in /home/devusaha/osil-puskesmas.com/tcpdf.php on line 18926
+[15-Jul-2024 12:59:35 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/devusaha/osil-puskesmas.com/tcpdf.php on line 18926
+[15-Jul-2024 12:59:35 Asia/Jakarta] PHP Notice:  Undefined index: style in /home/devusaha/osil-puskesmas.com/tcpdf.php on line 18927
+[15-Jul-2024 12:59:35 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/devusaha/osil-puskesmas.com/tcpdf.php on line 18927
+[15-Jul-2024 12:59:35 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/devusaha/osil-puskesmas.com/adminhasillist_cetak.php on line 854
+[15-Jul-2024 12:59:35 Asia/Jakarta] PHP Notice:  Undefined variable: content_se in /home/devusaha/osil-puskesmas.com/adminhasillist_cetak.php on line 1112
+[15-Jul-2024 12:59:35 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/devusaha/osil-puskesmas.com/adminhasillist_cetak.php on line 1136
+[15-Jul-2024 12:59:35 Asia/Jakarta] PHP Notice:  Undefined variable: content_kd in /home/devusaha/osil-puskesmas.com/adminhasillist_cetak.php on line 1342
+[15-Jul-2024 13:00:50 Asia/Jakarta] PHP Notice:  Undefined variable: content_he in /home/devusaha/osil-puskesmas.com/adminhasillist_cetak.php on line 394
+[15-Jul-2024 13:00:50 Asia/Jakarta] PHP Notice:  Undefined variable: content_ur in /home/devusaha/osil-puskesmas.com/adminhasillist_cetak.php on line 648
+[15-Jul-2024 13:00:50 Asia/Jakarta] PHP Notice:  Undefined variable: content_ba in /home/devusaha/osil-puskesmas.com/adminhasillist_cetak.php on line 830
+[15-Jul-2024 13:00:50 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/devusaha/osil-puskesmas.com/adminhasillist_cetak.php on line 854
+[15-Jul-2024 13:00:50 Asia/Jakarta] PHP Notice:  Undefined variable: content_se in /home/devusaha/osil-puskesmas.com/adminhasillist_cetak.php on line 1112
+[15-Jul-2024 13:00:50 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/devusaha/osil-puskesmas.com/adminhasillist_cetak.php on line 1136
+[15-Jul-2024 13:00:50 Asia/Jakarta] PHP Notice:  Undefined variable: content_kd in /home/devusaha/osil-puskesmas.com/adminhasillist_cetak.php on line 1342
+[15-Jul-2024 13:00:51 Asia/Jakarta] PHP Notice:  Undefined variable: content_he in /home/devusaha/osil-puskesmas.com/adminhasillist_cetak.php on line 394
+[15-Jul-2024 13:00:51 Asia/Jakarta] PHP Notice:  Undefined variable: content_ur in /home/devusaha/osil-puskesmas.com/adminhasillist_cetak.php on line 648
+[15-Jul-2024 13:00:51 Asia/Jakarta] PHP Notice:  Undefined variable: content_ba in /home/devusaha/osil-puskesmas.com/adminhasillist_cetak.php on line 830
+[15-Jul-2024 13:00:51 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/devusaha/osil-puskesmas.com/adminhasillist_cetak.php on line 854
+[15-Jul-2024 13:00:51 Asia/Jakarta] PHP Notice:  Undefined variable: content_se in /home/devusaha/osil-puskesmas.com/adminhasillist_cetak.php on line 1112
+[15-Jul-2024 13:00:51 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/devusaha/osil-puskesmas.com/adminhasillist_cetak.php on line 1136
+[15-Jul-2024 13:00:51 Asia/Jakarta] PHP Notice:  Undefined variable: content_kd in /home/devusaha/osil-puskesmas.com/adminhasillist_cetak.php on line 1342
+[15-Jul-2024 13:02:33 Asia/Jakarta] PHP Notice:  Undefined variable: content_he in /home/devusaha/osil-puskesmas.com/adminhasillist_cetak.php on line 394
+[15-Jul-2024 13:02:33 Asia/Jakarta] PHP Notice:  Undefined variable: content_ur in /home/devusaha/osil-puskesmas.com/adminhasillist_cetak.php on line 648
+[15-Jul-2024 13:02:33 Asia/Jakarta] PHP Notice:  Undefined variable: content_ba in /home/devusaha/osil-puskesmas.com/adminhasillist_cetak.php on line 830
+[15-Jul-2024 13:02:33 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/devusaha/osil-puskesmas.com/adminhasillist_cetak.php on line 854
+[15-Jul-2024 13:02:33 Asia/Jakarta] PHP Notice:  Undefined variable: content_se in /home/devusaha/osil-puskesmas.com/adminhasillist_cetak.php on line 1112
+[15-Jul-2024 13:02:33 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/devusaha/osil-puskesmas.com/adminhasillist_cetak.php on line 1136
+[15-Jul-2024 13:02:33 Asia/Jakarta] PHP Notice:  Undefined variable: content_kd in /home/devusaha/osil-puskesmas.com/adminhasillist_cetak.php on line 1342
+[15-Jul-2024 13:02:33 Asia/Jakarta] PHP Notice:  Undefined variable: content_he in /home/devusaha/osil-puskesmas.com/adminhasillist_cetak.php on line 394
+[15-Jul-2024 13:02:33 Asia/Jakarta] PHP Notice:  Undefined variable: content_ur in /home/devusaha/osil-puskesmas.com/adminhasillist_cetak.php on line 648
+[15-Jul-2024 13:02:33 Asia/Jakarta] PHP Notice:  Undefined variable: content_ba in /home/devusaha/osil-puskesmas.com/adminhasillist_cetak.php on line 830
+[15-Jul-2024 13:02:33 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/devusaha/osil-puskesmas.com/adminhasillist_cetak.php on line 854
+[15-Jul-2024 13:02:33 Asia/Jakarta] PHP Notice:  Undefined variable: content_se in /home/devusaha/osil-puskesmas.com/adminhasillist_cetak.php on line 1112
+[15-Jul-2024 13:02:33 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/devusaha/osil-puskesmas.com/adminhasillist_cetak.php on line 1136
+[15-Jul-2024 13:02:33 Asia/Jakarta] PHP Notice:  Undefined variable: content_kd in /home/devusaha/osil-puskesmas.com/adminhasillist_cetak.php on line 1342
+[15-Jul-2024 13:08:09 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/devusaha/osil-puskesmas.com/adminhasillist_result.php on line 3
+[15-Jul-2024 13:08:09 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/devusaha/osil-puskesmas.com/adminhasillist_result.php on line 4
+[15-Jul-2024 13:10:07 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/devusaha/osil-puskesmas.com/loginadmincheck.php on line 9
+[15-Jul-2024 13:10:07 Asia/Jakarta] PHP Notice:  Undefined index: password in /home/devusaha/osil-puskesmas.com/loginadmincheck.php on line 10
+[15-Jul-2024 13:10:18 Asia/Jakarta] PHP Notice:  Undefined variable: content_he in /home/devusaha/osil-puskesmas.com/adminhasillist_cetak.php on line 394
+[15-Jul-2024 13:10:18 Asia/Jakarta] PHP Notice:  Undefined variable: content_ur in /home/devusaha/osil-puskesmas.com/adminhasillist_cetak.php on line 648
+[15-Jul-2024 13:10:18 Asia/Jakarta] PHP Notice:  Undefined variable: content_ba in /home/devusaha/osil-puskesmas.com/adminhasillist_cetak.php on line 830
+[15-Jul-2024 13:10:18 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/devusaha/osil-puskesmas.com/adminhasillist_cetak.php on line 854
+[15-Jul-2024 13:10:18 Asia/Jakarta] PHP Notice:  Undefined variable: content_se in /home/devusaha/osil-puskesmas.com/adminhasillist_cetak.php on line 1112
+[15-Jul-2024 13:10:18 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/devusaha/osil-puskesmas.com/adminhasillist_cetak.php on line 1136
+[15-Jul-2024 13:10:18 Asia/Jakarta] PHP Notice:  Undefined variable: content_kd in /home/devusaha/osil-puskesmas.com/adminhasillist_cetak.php on line 1342
+[15-Jul-2024 13:10:20 Asia/Jakarta] PHP Notice:  Undefined variable: content_he in /home/devusaha/osil-puskesmas.com/adminhasillist_cetak.php on line 394
+[15-Jul-2024 13:10:20 Asia/Jakarta] PHP Notice:  Undefined variable: content_ur in /home/devusaha/osil-puskesmas.com/adminhasillist_cetak.php on line 648
+[15-Jul-2024 13:10:20 Asia/Jakarta] PHP Notice:  Undefined variable: content_ba in /home/devusaha/osil-puskesmas.com/adminhasillist_cetak.php on line 830
+[15-Jul-2024 13:10:20 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/devusaha/osil-puskesmas.com/adminhasillist_cetak.php on line 854
+[15-Jul-2024 13:10:20 Asia/Jakarta] PHP Notice:  Undefined variable: content_se in /home/devusaha/osil-puskesmas.com/adminhasillist_cetak.php on line 1112
+[15-Jul-2024 13:10:20 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/devusaha/osil-puskesmas.com/adminhasillist_cetak.php on line 1136
+[15-Jul-2024 13:10:20 Asia/Jakarta] PHP Notice:  Undefined variable: content_kd in /home/devusaha/osil-puskesmas.com/adminhasillist_cetak.php on line 1342
